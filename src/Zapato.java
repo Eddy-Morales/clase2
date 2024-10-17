@@ -42,6 +42,11 @@ public class Zapato {
     public void setTipo(String tipo) {
         this.tipo = tipo;
     }
-
+    public void mostrar_zapato(){
+        System.out.println("Marca: " + this.Marca);
+        System.out.println("Talla: " + this.talla);
+        System.out.println("Color: " + this.color);
+        System.out.println("Tipo: " + this.tipo);
+    }
 
 }
