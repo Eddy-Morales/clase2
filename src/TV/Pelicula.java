@@ -1,3 +1,5 @@
+package TV;
+
 public class Pelicula {
     String titulo;
     double duracion_min;

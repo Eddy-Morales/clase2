@@ -1,3 +1,5 @@
+package Otros;
+
 public class Material {
     String nombre;
     String resistencia;

@@ -1,3 +1,5 @@
+package Otros;
+
 public class videojuego {
     //Atributos
     String nombre;
